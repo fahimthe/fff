@@ -1,0 +1,1198 @@
+@media (min-width: 320px) and (max-width: 479.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 120px;
+	}
+
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.header .header_wrapper {
+		padding: 15px 0 12px 0;
+	}
+
+	.header_marque marquee p {
+		font-size: 14px !important;
+		padding: 0 30px;
+	}
+	.header_marque {
+		background-color: #1081ae;
+		position: fixed;
+		top: 144px;
+		z-index: 2;
+	}
+	.header_item1 {
+		text-align: end;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 11px;
+		color: #000;
+		display: inline-block;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 12px;
+		line-height: 18px;
+		display: inline-block;
+	}
+	.mob_header {
+		top: 94px;
+		box-shadow: 1px 1.732px 20px 0px rgba(0,0,0,0.0);
+	}
+	.mobNewHeader {
+		position: fixed;
+		top: 47px; 
+		width: 100%;
+		box-shadow: 1px 1.732px 10px 3px #0000004d;
+	}
+	.marqueNewClass{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 2; 
+		transition: all 0.7s ease-in-out;
+	}
+	/* top Section Live */
+	.home {
+		margin-top: 85px
+	}
+	iframe {
+		height: 365px;
+	}
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* off nav */
+.offcanvas-end {
+	width: 260px;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 30px;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	padding-top: 0px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	margin-top: 10px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 19px;
+	line-height: 29px;
+}
+/* Section-2 */
+.section-2 .advartise {
+ display: none;
+} 
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 20px;
+	padding: 15px 0;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 17px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 16px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 17px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+
+
+
+
+/* commmon clas */
+.m_bottom{
+	margin-bottom: 20px;
+}
+.m_top{
+	margin-top: 20px;
+}
+}
+@media (min-width: 480px) and (max-width: 575.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 120px;
+	}
+
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 18px; 
+	}
+	.header .header_wrapper {
+		padding: 15px 0 12px 0;
+	}
+
+	.header_marque marquee p {
+		font-size: 14px !important;
+		padding: 0 30px;
+	}
+	.header_marque {
+		background-color: #1081ae;
+		position: fixed;
+		top: 144px;
+		z-index: 2;
+	}
+	.header_item1 {
+		text-align: end;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 13px;
+		color: #000;
+		display: inline-block;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 14px;
+		line-height: 18px;
+		display: inline-block;
+	}
+	.mob_header {
+		top: 94px;
+		box-shadow: 1px 1.732px 20px 0px rgba(0,0,0,0.0);
+	}
+	.mobNewHeader {
+		position: fixed;
+		top: 47px; 
+		width: 100%;
+		box-shadow: 1px 1.732px 10px 3px #0000004d;
+	}
+	.marqueNewClass{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 2; 
+		transition: all 0.7s ease-in-out;
+	}
+	/* top Section Live */
+	.home {
+		margin-top: 85px
+	}
+	iframe {
+		height: 365px;
+	}
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* off nav */
+.offcanvas-end {
+	width: 260px;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 30px;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	padding-top: 0px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	margin-top: 10px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 19px;
+	line-height: 29px;
+}
+/* Section-2 */
+.section-2 .advartise {
+ display: none;
+} 
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 20px;
+	padding: 15px 0;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 17px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 16px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 17px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+
+
+
+
+/* commmon clas */
+.m_bottom{
+	margin-bottom: 20px;
+}
+.m_top{
+	margin-top: 20px;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 120px;
+	}
+
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 18px; 
+	}
+	.header .header_wrapper {
+		padding: 15px 0 12px 0;
+	}
+
+	.header_marque marquee p {
+		font-size: 14px !important;
+		padding: 0 30px;
+	}
+	.header_marque {
+		background-color: #1081ae;
+		position: fixed;
+		width: 100%;
+		top: 144px;
+		z-index: 2;
+	}
+	.header_item1 {
+		text-align: end;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 13px;
+		color: #000;
+		display: inline-block;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 14px;
+		line-height: 18px;
+		display: inline-block;
+	}
+	.mob_header {
+		top: 94px;
+		box-shadow: 1px 1.732px 20px 0px rgba(0,0,0,0.0);
+	}
+	.mobNewHeader {
+		position: fixed;
+		top: 47px; 
+		width: 100%;
+		box-shadow: 1px 1.732px 10px 3px #0000004d;
+	}
+	.marqueNewClass{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 2; 
+		transition: all 0.7s ease-in-out;
+	}
+	.mob_header .mobNAv_btn a i {
+		padding: 5px 0px;
+		font-size: 30px;
+	}
+	/* top Section Live */
+	.home {
+		margin-top: 85px
+	}
+	iframe {
+		height: 365px;
+	}
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* off nav */
+.offcanvas-end {
+	width: 260px;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 0px;
+	height: 380px;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	font-size: 19px;
+	padding-top: 10px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	padding: 8px 5px;
+	margin-top: 10px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.section-1 .item-2 .item_text {
+	padding-left: 8px;
+}
+/* Section-2 */
+.section-2 .advartise {
+ display: none;
+} 
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 20px;
+	padding: 15px 0;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+.section-4 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-4 .section4_body .Country-item .item_text {
+	padding-left: 10px;
+}
+.section-4 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-5 .section4_body .Country-item .item_text {
+	padding: 10px 0 10px 0px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+.section-5 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 16px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 17px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+
+/* commmon clas */
+.m_bottom{
+	margin-bottom: 20px;
+}
+.m_top{
+	margin-top: 20px;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 120px;
+	}
+
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 18px; 
+	}
+	.header .header_wrapper {
+		padding: 15px 0 12px 0;
+	}
+
+	.header_marque marquee p {
+		font-size: 14px !important;
+		padding: 0 30px;
+	}
+	.header_marque {
+		background-color: #1081ae;
+		position: fixed;
+		width: 100%;
+		top: 144px;
+		z-index: 2;
+	}
+	.header_item1 {
+		text-align: end;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 13px;
+		color: #000;
+		display: inline-block;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 14px;
+		line-height: 18px;
+		display: inline-block;
+	}
+	.mob_header {
+		top: 94px;
+		box-shadow: 1px 1.732px 20px 0px rgba(0,0,0,0.0);
+	}
+	.mobNewHeader {
+		position: fixed;
+		top: 47px; 
+		width: 100%;
+		box-shadow: 1px 1.732px 10px 3px #0000004d;
+	}
+	.marqueNewClass{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 2; 
+		transition: all 0.7s ease-in-out;
+	}
+	.mob_header .mobNAv_btn a i {
+		padding: 5px 0px;
+		font-size: 30px;
+	}
+	/* top Section Live */
+	.home {
+		margin-top: 85px
+	}
+	iframe {
+		height: 515px;
+	}
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* off nav */
+.offcanvas-end {
+	width: 260px;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 0px;
+	height: 500px;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	font-size: 19px;
+	padding-top: 10px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	padding: 8px 5px;
+	margin-top: 10px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.section-1 .item-2 .item_text {
+	padding-left: 8px;
+}
+/* Section-2 */
+.section-2 .advartise {
+ display: none;
+} 
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 20px;
+	padding: 15px 0;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+.section-4 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-4 .section4_body .Country-item .item_text {
+	padding-left: 10px;
+}
+.section-4 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-5 .section4_body .Country-item .item_text {
+	padding: 10px 0 10px 0px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+.section-5 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 16px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 17px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+
+/* commmon clas */
+.m_bottom{
+	margin-bottom: 20px;
+}
+.m_top{
+	margin-top: 20px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 155px;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 17px;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 15px;
+		line-height: 16px;
+	}
+	.navBar ul li a {
+		font-size: 16px;
+	}
+	.navBar ul li {
+		padding-right: 18px;
+	}
+	.navBar ul li .sub_down {
+		width: 230px;
+	}
+	/* top Section Live */
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* off nav */
+.offcanvas-end {
+	width: 260px;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 0px;
+	height: auto;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	font-size: 19px;
+	padding-top: 10px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	padding: 8px 5px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.section-1 .item-2 .item_text {
+	padding-left: 8px;
+}
+/* Section-2 */
+.section-2 .sec2_inner h4 {
+	font-size: 17px;
+	padding-top: 10px;
+}
+.section-2 {
+	margin: 10px 0 0 0;
+}
+.section-2 .advartise img {
+	max-width: 100%;
+	width: 100%;
+}
+.section-2 .advartise {
+	height: 590px;
+}
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 14px;
+	padding: 1px 0;
+}
+.section-3 .tab-content .tab-pane .nabtab-item .item_text h4 {
+	font-size: 17px;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 {
+	margin-top: 30px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+.section-4 .section4_body .coutry_wrap h4 {
+	font-size: 20px;
+	padding-top: 10px;
+}
+.section-4 .section4_body .Country-item .item_text h4 {
+	font-size: 14px;
+}
+.section-4 .section4_body .Country-item .item_text {
+	padding-left: 10px;
+}
+.section-4 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-5 .section4_body .Country-item .item_text {
+	padding: 10px 0 10px 0px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+.section-5 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 15px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 8 */
+.section-8 .section8_body .section8-item .item_text h4 {
+	font-size: 16px;
+}
+.section-8 .section8_body .section8-item .item_text {
+	width: 50%;
+	padding: 0px 0 0 10px;
+}
+.section-8 .section8_body .section8-item {
+	padding: 8px 10px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 17px;
+}
+.section-9 .section6_body .share-1 h4 {
+	font-size: 20px;
+	padding-top: 10px;
+	line-height: 35px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+.mar_t{
+	margin-top: 22px !important;
+}
+}
+@media (min-width: 1200px) and (max-width: 1399.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 155px;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 17px;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 15px;
+		line-height: 16px;
+	}
+	.navBar ul li a {
+		font-size: 17px;
+	}
+	.navBar ul li {
+		padding-right: 20px;
+	}
+	.navBar ul li .sub_down {
+		width: 230px;
+	}
+	/* top Section Live */
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 0px;
+	height: auto;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	font-size: 19px;
+	padding-top: 10px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	padding: 8px 5px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.section-1 .item-2 .item_text {
+	padding-left: 8px;
+}
+/* Section-2 */
+.section-2 .sec2_inner h4 {
+	font-size: 17px;
+	padding-top: 10px;
+}
+.section-2 {
+	margin: 10px 0 0 0;
+}
+.section-2 .advartise img {
+	max-width: 100%;
+	width: 100%;
+}
+.section-2 .advartise {
+	height: 590px;
+}
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 14px;
+	padding: 1px 0;
+}
+.section-3 .tab-content .tab-pane .nabtab-item .item_text h4 {
+	font-size: 17px;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 {
+	margin-top: 30px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+.section-4 .section4_body .coutry_wrap h4 {
+	font-size: 20px;
+	padding-top: 10px;
+}
+.section-4 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-4 .section4_body .Country-item .item_text {
+	padding-left: 10px;
+}
+.section-4 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-5 .section4_body .Country-item .item_text {
+	padding: 10px 0 10px 0px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+.section-5 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+.section-5 .section4_body .coutry_wrap h4 {
+	font-size: 21px;
+	padding-top: 13px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 15px;
+}
+.section-6 .section6_body .sports-1 h4 {
+	font-size: 22px;
+	color: #000;
+	font-weight: 500;
+	padding-top: 20px;
+	line-height: 35px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 8 */
+.section-8 .section8_body .section8-item .item_text h4 {
+	font-size: 16px;
+}
+.section-8 .section8_body .section8-item .item_text {
+	width: 50%;
+	padding: 0px 0 0 10px;
+}
+.section-8 .section8_body .section8-item {
+	padding: 8px 10px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 16px;
+}
+.section-9 .section6_body .share-1 h4 {
+	font-size: 20px;
+	padding-top: 10px;
+	line-height: 35px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+.mar_t{
+	margin-top: 22px !important;
+}
+}
+@media (min-width: 1400px) and (max-width: 1499.98px){     
+	/*header  section */
+	.header .header_wrapper .header_item2 img {
+		width: 155px;
+	}
+	.header .header_wrapper .header_item1 h4 {
+		font-size: 15px;
+		line-height: 17px;
+	}
+	.header .header_wrapper .header_item3 h5 {
+		font-size: 15px;
+		line-height: 16px;
+	}
+	.navBar ul li a {
+		font-size: 17px;
+	}
+	.navBar ul li {
+		padding-right: 20px;
+	}
+	.navBar ul li .sub_down {
+		width: 230px;
+	}
+	/* top Section Live */
+	.home .live h5 {
+		font-size: 22px;
+	}
+/* Top Section Part */
+.topSection .topSecInner .img_wrapper {
+	height: auto;
+}
+.topSection .sec_img {
+	text-align: center;
+	margin-top: 0px;
+	height: auto;
+}
+.home .liveTitle h4 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.topSection .secimgTitle {
+	padding: 20px 0;
+
+}
+.topSection .secimgTitle h5 {
+	font-size: 19px;
+	padding-top: 10px;
+}
+/* section - 1 */
+.section-1 .item-2 {
+	padding: 8px 5px;
+}
+.section-1 .item h4 {
+	font-size: 20px;
+	line-height: 32px;
+	text-align: center;
+	padding: 25px 0 15px 0;
+}
+.section-1 .item-2 .item_text h4 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.section-1 .item-2 .item_text {
+	padding-left: 8px;
+}
+/* Section-2 */
+.section-2 .sec2_inner h4 {
+	font-size: 17px;
+	padding-top: 10px;
+}
+.section-2 {
+	margin: 10px 0 0 0;
+}
+.section-2 .advartise img {
+	max-width: 100%;
+	width: 100%;
+}
+.section-2 .advartise {
+	height: 590px;
+}
+/* section - 3 */
+.section-3 .sec3_inner .v_title2 h5 {
+	font-size: 14px;
+	padding: 1px 0;
+}
+.section-3 .tab-content .tab-pane .nabtab-item .item_text h4 {
+	font-size: 17px;
+}
+.section-3 .section_header h5 {
+	font-size: 18px;
+	padding: 15px 15px;
+}
+.section-3 {
+	margin-top: 30px;
+}
+.section-3 .sec3_inner .v_title h4 {
+	font-size: 17px;
+}
+/* section 4 */
+.section-4 .section4_body .coutry_wrap h5 {
+	font-size: 16px;
+}
+.section-4 .section4_body .coutry_wrap h4 {
+	font-size: 20px;
+	padding-top: 10px;
+}
+.section-4 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-4 .section4_body .Country-item .item_text {
+	padding-left: 10px;
+}
+.section-4 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+/* section-5 */
+.section-5 .section4_body .Country-item .item_text h4 {
+	font-size: 15px;
+}
+.section-5 .section4_body .Country-item .item_text {
+	padding: 10px 0 10px 0px;
+}
+.section-5 .section4_body .coutry_wrap h6 {
+	font-size: 16px;
+}
+.section-5 .section4_body .Country-item {
+	padding: 7px 5px;
+}
+.section-5 .section4_body .coutry_wrap h4 {
+	font-size: 21px;
+	padding-top: 13px;
+}
+/* section 6 */
+.section-6 .section6_body .sports-1 h6 {
+	font-size: 15px;
+}
+.section-6 .section6_body .sports-1 h4 {
+	font-size: 22px;
+	color: #000;
+	font-weight: 500;
+	padding-top: 20px;
+	line-height: 35px;
+}
+.section-6 .section6_body .Country-item .item_text h4 {
+	font-size: 16px;
+}
+/* section 8 */
+.section-8 .section8_body .section8-item .item_text h4 {
+	font-size: 16px;
+}
+.section-8 .section8_body .section8-item .item_text {
+	width: 50%;
+	padding: 0px 0 0 10px;
+}
+.section-8 .section8_body .section8-item {
+	padding: 8px 10px;
+}
+/* section 9 */
+.section-9 .section6_body .share-item .item_text h4 {
+	font-size: 16px;
+}
+.section-9 .section6_body .share-1 h4 {
+	font-size: 20px;
+	padding-top: 10px;
+	line-height: 35px;
+}
+.section-9 .section6_body .share-1 h6 {
+	font-size: 16px;
+}
+.mar_t{
+	margin-top: 22px !important;
+}
+}
+
+
